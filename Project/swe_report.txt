@@ -1,0 +1,70 @@
+
+
+
+REPORT  :   MEGHANA KIRAN
+
+GENERAL APPROACH TO THE PROGRAM:
+I first designed a flow chart to get idea about the implementation.Since it was partially implemented in phase 1 i had to practically think of the implementation on multiprogramming . Then wrote a pseudo-code to understand the flow of control.
+
+UTILITIES USED:
+
+The tools that I have used are Eclipse IDE and putty for uploading the code on to the csx machine.  The simulation is portable to any other environment.
+
+BULK COMPLEXITIES THE SIMULATION PROGRAM:
+
+Lines of Code:  2980
+No of declarations: 140
+Comments: 301
+No of Functions: 9
+No of Methods: 15
+No of Class: 6
+No of executable statements: 1857
+Blank lines 400
+No of decisions:650
+
+MODULE : SYSTEM 
+Lines of Code: 409
+Comments:32
+No of Functions: 4
+No of Methods:2
+
+MODULE : MEMORY_MANAGER 
+Lines of Code: 133
+Comments: 20
+No of Functions: 1
+No of Methods:2
+
+MODULE : LOADER
+Lines of Code:  1039
+Comments: 127
+No of Functions:3
+No of Methods:4
+
+MODULE : CPU
+Lines of Code: 927
+Comments: 100
+No of Methods:2
+
+MODULE : ERROR_HANDLER 
+Lines of Code:  170
+Comments: 5
+No of Functions: 3
+
+MODULE : SCHEDULER  
+Lines of Code:  293
+Comments: 30
+No of Functions: 6
+
+
+
+TIME SPENT: 
+
+Time Spent on Designing:  1-2 days
+Time Spent on Implementation: 8-12 days
+Time Spent on Testing:  1-3 days
+
+PORTABILITY:
+Since the code is written in Java. The code is portable on other platforms assuming there's a JVM for the target platform. There is still certain incompatibilities with Java but since my program doesn’t involve threads this may not be a issue. 
+
+IMPLEMENTATION LANGUAGE:
+I have used JAVA for my programming as I am a more experienced with java and I feel a most comfortable with the language. Coding in Java makes it easier to debug for me. To do a simuation in Java is much easier due to its vast libraries and datastructures 
