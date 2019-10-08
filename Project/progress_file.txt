@@ -1,0 +1,9156 @@
+ JOBID 7
+
+LENGTH  058
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Inut lines5
+
+Output Lines4
+
+LENGTH  058
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 8
+
+LENGTH  013
+
+ERROR OR WARNING: [E:131] **DATA FOR PROOGRAM MISSING 
+
+Inut lines3
+
+Output Lines1
+
+LENGTH  013
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 10
+
+LENGTH  null
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Inut lines3
+
+Output Lines1
+
+LENGTH  null
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 18
+
+LENGTH  01A
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Inut lines2
+
+Output Lines4
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 24
+
+LENGTH  020
+
+ERROR OR WARNING: [E:131] **DATA FOR PROOGRAM MISSING 
+
+Inut lines2
+
+Output LinesC
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 33
+
+LENGTH  020
+
+ERROR OR WARNING: [E:133] **END FOR PROOGRAM MISSING 
+
+Inut lines1
+
+Output LinesC
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 35
+
+LENGTH  037
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Inut lines4
+
+Output Lines2
+
+LENGTH  037
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 37
+
+LENGTH  01E
+
+ERROR OR WARNING: [E:131] **DATA FOR PROOGRAM MISSING 
+
+Inut lines4
+
+Output Lines1
+
+LENGTH  01E
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 46
+
+LENGTH  092
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Inut lines6
+
+Output Lines4
+
+LENGTH  092
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 47
+
+LENGTH  null
+
+ERROR OR WARNING: [E:132] **JOB FOR PROOGRAM MISSING 
+
+Inut linesnull
+
+Output Linesnull
+
+LENGTH  null
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 56
+
+LENGTH  01E
+
+ERROR OR WARNING: [E:133] **END FOR PROOGRAM MISSING 
+
+Inut lines3
+
+Output Lines1
+
+LENGTH  01E
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 62
+
+LENGTH  01A
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Inut lines0
+
+Output Lines2
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 72
+
+LENGTH  020
+
+ERROR OR WARNING: [E:128]LOADER FORMAT MISSING
+
+Inut lines1
+
+Output Lines2
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 73
+
+LENGTH  01F
+
+ERROR OR WARNING: [E:131] **DATA FOR PROOGRAM MISSING 
+
+Inut lines1
+
+Output Lines2
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 75
+
+LENGTH  01B
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Inut lines2
+
+Output Lines3
+
+LENGTH  01B
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 82
+
+LENGTH  025
+
+ERROR OR WARNING: [E:131] **DATA FOR PROOGRAM MISSING 
+
+Inut lines4
+
+Output Lines2
+
+LENGTH  025
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 85
+
+LENGTH  01A
+
+ERROR OR WARNING: [E:133] **END FOR PROOGRAM MISSING 
+
+Inut lines2
+
+Output Lines2
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 87
+
+LENGTH  020
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Inut lines1
+
+Output LinesC
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 89
+
+LENGTH  null
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Inut lines3
+
+Output Lines4
+
+LENGTH  null
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 94
+
+LENGTH  null
+
+ERROR OR WARNING: [E:132] **JOB FOR PROOGRAM MISSING 
+
+Inut linesnull
+
+Output Linesnull
+
+LENGTH  null
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 99
+
+LENGTH  null
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Inut lines1
+
+Output LinesA
+
+LENGTH  null
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 2
+
+Input lines4
+
+Output Lines5
+
+Partition occupied by the memory1
+
+totalnumber32
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 187
+
+CPU execution time(DEC): 157
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 9e
+
+JOBID 2
+
+Input lines4
+
+Output Lines5
+
+Partition occupied by the memory1
+
+totalnumber32
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 187
+
+CPU execution time(DEC): 157
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 9e
+
+JOBID 3
+
+Input lines5
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber41
+
+LENGTH  023
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 109
+
+CPU execution time(DEC): 69
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 46
+
+JOBID 3
+
+Input lines5
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber41
+
+LENGTH  023
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 109
+
+CPU execution time(DEC): 69
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 46
+
+JOBID 4
+
+Input lines2
+
+Output Lines3
+
+Partition occupied by the memory1
+
+totalnumber17
+
+LENGTH  00C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 48
+
+CPU execution time(DEC): 28
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 1d
+
+JOBID 4
+
+Input lines2
+
+Output Lines3
+
+Partition occupied by the memory1
+
+totalnumber17
+
+LENGTH  00C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 48
+
+CPU execution time(DEC): 28
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 1d
+
+JOBID 5
+
+Input lines2
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber51
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 5
+
+Input lines2
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber51
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 6
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines1
+
+Output LinesE
+
+Partition occupied by the memory3
+
+totalnumber47
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 6
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines1
+
+Output LinesE
+
+Partition occupied by the memory3
+
+totalnumber47
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 7
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Input lines5
+
+Output Lines4
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  058
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 8
+
+ERROR OR WARNING: [E:131] **DATA FOR PROOGRAM MISSING 
+
+Input lines3
+
+Output Lines1
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  013
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 9
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines1
+
+Output LinesC
+
+Partition occupied by the memory3
+
+totalnumber45
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 9
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines1
+
+Output LinesC
+
+Partition occupied by the memory3
+
+totalnumber45
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 10
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Input lines3
+
+Output Lines1
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  null
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 11
+
+ERROR OR WARNING: [E:141]: INSUFFICIENT OUTPUT SPACE
+
+Input lines3
+
+Output Lines3
+
+Partition occupied by the memory0
+
+totalnumber37
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 12
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines3
+
+Output Lines6
+
+Partition occupied by the memory3
+
+totalnumber56
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 12
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines3
+
+Output Lines6
+
+Partition occupied by the memory3
+
+totalnumber56
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 13
+
+Time the job is leaving(HEX) : 20
+
+JOBID 13
+
+ERROR OR WARNING: 
+
+Inut lines4
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber20
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 88
+
+CPU execution time(DEC): 123
+
+I/O operation time(DEC): 65
+
+Time the job is leaving(HEX) : 0
+
+JOBID 13
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output LinesF
+
+Partition occupied by the memory3
+
+totalnumber49
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 13
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output LinesF
+
+Partition occupied by the memory3
+
+totalnumber49
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 14
+
+Input lines1
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber51
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 14
+
+Input lines1
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber51
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 15
+
+Input lines4
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber36
+
+LENGTH  01E
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 135
+
+CPU execution time(DEC): 95
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 60
+
+JOBID 15
+
+Input lines4
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber36
+
+LENGTH  01E
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 135
+
+CPU execution time(DEC): 95
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 60
+
+JOBID 16
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines7
+
+Partition occupied by the memory3
+
+totalnumber41
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 16
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines7
+
+Partition occupied by the memory3
+
+totalnumber41
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 17
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines1
+
+Output LinesC
+
+Partition occupied by the memory3
+
+totalnumber45
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 17
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines1
+
+Output LinesC
+
+Partition occupied by the memory3
+
+totalnumber45
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 18
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Input lines2
+
+Output Lines4
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 19
+
+Input lines3
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber46
+
+LENGTH  028
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 164
+
+CPU execution time(DEC): 114
+
+I/O operation time(DEC): 50
+
+Time the job is leaving(HEX) : 73
+
+JOBID 19
+
+Input lines3
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber46
+
+LENGTH  028
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 164
+
+CPU execution time(DEC): 114
+
+I/O operation time(DEC): 50
+
+Time the job is leaving(HEX) : 73
+
+JOBID 21
+
+Input lines4
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber40
+
+LENGTH  023
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 109
+
+CPU execution time(DEC): 69
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 46
+
+JOBID 21
+
+Input lines4
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber40
+
+LENGTH  023
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 109
+
+CPU execution time(DEC): 69
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 46
+
+JOBID 22
+
+Input lines2
+
+Output Lines1
+
+Partition occupied by the memory1
+
+totalnumber15
+
+LENGTH  00C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 48
+
+CPU execution time(DEC): 28
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 1d
+
+JOBID 22
+
+Input lines2
+
+Output Lines1
+
+Partition occupied by the memory1
+
+totalnumber15
+
+LENGTH  00C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 48
+
+CPU execution time(DEC): 28
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 1d
+
+JOBID 23
+
+Input lines3
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber41
+
+LENGTH  025
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 121
+
+CPU execution time(DEC): 81
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 52
+
+JOBID 23
+
+Input lines3
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber41
+
+LENGTH  025
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 121
+
+CPU execution time(DEC): 81
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 52
+
+JOBID 24
+
+ERROR OR WARNING: [E:131] **DATA FOR PROOGRAM MISSING 
+
+Input lines2
+
+Output LinesC
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 25
+
+Input lines2
+
+Output Lines4
+
+Partition occupied by the memory1
+
+totalnumber29
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 155
+
+CPU execution time(DEC): 125
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 7e
+
+JOBID 25
+
+Input lines2
+
+Output Lines4
+
+Partition occupied by the memory1
+
+totalnumber29
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 155
+
+CPU execution time(DEC): 125
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 7e
+
+JOBID 26
+
+Input lines3
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber46
+
+LENGTH  028
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 108
+
+CPU execution time(DEC): 58
+
+I/O operation time(DEC): 50
+
+Time the job is leaving(HEX) : 3b
+
+JOBID 26
+
+Input lines3
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber46
+
+LENGTH  028
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 108
+
+CPU execution time(DEC): 58
+
+I/O operation time(DEC): 50
+
+Time the job is leaving(HEX) : 3b
+
+JOBID 27
+
+Input lines3
+
+Output Lines4
+
+Partition occupied by the memory3
+
+totalnumber44
+
+LENGTH  025
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 153
+
+CPU execution time(DEC): 113
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 72
+
+JOBID 27
+
+Input lines3
+
+Output Lines4
+
+Partition occupied by the memory3
+
+totalnumber44
+
+LENGTH  025
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 153
+
+CPU execution time(DEC): 113
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 72
+
+JOBID 28
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output LinesB
+
+Partition occupied by the memory3
+
+totalnumber45
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 28
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output LinesB
+
+Partition occupied by the memory3
+
+totalnumber45
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 29
+
+Input lines4
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber40
+
+LENGTH  023
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 109
+
+CPU execution time(DEC): 69
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 46
+
+JOBID 29
+
+Input lines4
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber40
+
+LENGTH  023
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 109
+
+CPU execution time(DEC): 69
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 46
+
+JOBID 30
+
+Input lines1
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber33
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 89
+
+CPU execution time(DEC): 69
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 46
+
+JOBID 30
+
+Input lines1
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber33
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 89
+
+CPU execution time(DEC): 69
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 46
+
+JOBID 31
+
+Input lines3
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber36
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 145
+
+CPU execution time(DEC): 115
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 74
+
+JOBID 31
+
+Input lines3
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber36
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 145
+
+CPU execution time(DEC): 115
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 74
+
+JOBID 32
+
+Input lines3
+
+Output Lines3
+
+Partition occupied by the memory1
+
+totalnumber18
+
+LENGTH  00C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 48
+
+CPU execution time(DEC): 28
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 1d
+
+JOBID 32
+
+Input lines3
+
+Output Lines3
+
+Partition occupied by the memory1
+
+totalnumber18
+
+LENGTH  00C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 48
+
+CPU execution time(DEC): 28
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 1d
+
+JOBID 33
+
+ERROR OR WARNING: [E:133] **END FOR PROOGRAM MISSING 
+
+Input lines1
+
+Output LinesC
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 34
+
+Input lines4
+
+Output Lines5
+
+Partition occupied by the memory3
+
+totalnumber49
+
+LENGTH  028
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 152
+
+CPU execution time(DEC): 102
+
+I/O operation time(DEC): 50
+
+Time the job is leaving(HEX) : 67
+
+JOBID 34
+
+Input lines4
+
+Output Lines5
+
+Partition occupied by the memory3
+
+totalnumber49
+
+LENGTH  028
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 152
+
+CPU execution time(DEC): 102
+
+I/O operation time(DEC): 50
+
+Time the job is leaving(HEX) : 67
+
+JOBID 35
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Input lines4
+
+Output Lines2
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  037
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 36
+
+Input lines6
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber46
+
+LENGTH  025
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 145
+
+CPU execution time(DEC): 105
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 6a
+
+JOBID 36
+
+Input lines6
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber46
+
+LENGTH  025
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 145
+
+CPU execution time(DEC): 105
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 6a
+
+JOBID 37
+
+ERROR OR WARNING: [E:131] **DATA FOR PROOGRAM MISSING 
+
+Input lines4
+
+Output Lines1
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  01E
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 38
+
+Input lines3
+
+Output Lines4
+
+Partition occupied by the memory3
+
+totalnumber38
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 76
+
+CPU execution time(DEC): 56
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 39
+
+JOBID 38
+
+Input lines3
+
+Output Lines4
+
+Partition occupied by the memory3
+
+totalnumber38
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 76
+
+CPU execution time(DEC): 56
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 39
+
+JOBID 39
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber52
+
+LENGTH  30
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 39
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber52
+
+LENGTH  30
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 40
+
+Input lines7
+
+Output Lines2
+
+Partition occupied by the memory1
+
+totalnumber32
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 115
+
+CPU execution time(DEC): 85
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 56
+
+JOBID 40
+
+Input lines7
+
+Output Lines2
+
+Partition occupied by the memory1
+
+totalnumber32
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 115
+
+CPU execution time(DEC): 85
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 56
+
+JOBID 41
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output LinesC
+
+Partition occupied by the memory3
+
+totalnumber46
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 41
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output LinesC
+
+Partition occupied by the memory3
+
+totalnumber46
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 42
+
+Input lines4
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber53
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 42
+
+Input lines4
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber53
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 43
+
+Input lines3
+
+Output Lines5
+
+Partition occupied by the memory3
+
+totalnumber55
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 43
+
+Input lines3
+
+Output Lines5
+
+Partition occupied by the memory3
+
+totalnumber55
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 44
+
+Input lines1
+
+Output Lines3
+
+Partition occupied by the memory1
+
+totalnumber27
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 81
+
+CPU execution time(DEC): 51
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 34
+
+JOBID 44
+
+Input lines1
+
+Output Lines3
+
+Partition occupied by the memory1
+
+totalnumber27
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 81
+
+CPU execution time(DEC): 51
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 34
+
+JOBID 45
+
+Input lines4
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber40
+
+LENGTH  023
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 109
+
+CPU execution time(DEC): 69
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 46
+
+JOBID 45
+
+Input lines4
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber40
+
+LENGTH  023
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 109
+
+CPU execution time(DEC): 69
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 46
+
+JOBID 46
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Input lines6
+
+Output Lines4
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  092
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 47
+
+ERROR OR WARNING: [E:132] **JOB FOR PROOGRAM MISSING 
+
+Input linesnull
+
+Output Linesnull
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  null
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 48
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines3
+
+Output Lines4
+
+Partition occupied by the memory3
+
+totalnumber54
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 48
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines3
+
+Output Lines4
+
+Partition occupied by the memory3
+
+totalnumber54
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 49
+
+Input lines1
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber36
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 207
+
+CPU execution time(DEC): 177
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : b2
+
+JOBID 49
+
+Input lines1
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber36
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 207
+
+CPU execution time(DEC): 177
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : b2
+
+JOBID 52
+
+Input lines2
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber37
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 175
+
+CPU execution time(DEC): 145
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 92
+
+JOBID 52
+
+Input lines2
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber37
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 175
+
+CPU execution time(DEC): 145
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 92
+
+JOBID 53
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber39
+
+LENGTH  022
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 53
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber39
+
+LENGTH  022
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 54
+
+Input lines3
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber46
+
+LENGTH  028
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 129
+
+CPU execution time(DEC): 79
+
+I/O operation time(DEC): 50
+
+Time the job is leaving(HEX) : 50
+
+JOBID 54
+
+Input lines3
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber46
+
+LENGTH  028
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 129
+
+CPU execution time(DEC): 79
+
+I/O operation time(DEC): 50
+
+Time the job is leaving(HEX) : 50
+
+JOBID 55
+
+Input lines3
+
+Output Lines3
+
+Partition occupied by the memory1
+
+totalnumber18
+
+LENGTH  00C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 48
+
+CPU execution time(DEC): 28
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 1d
+
+JOBID 55
+
+Input lines3
+
+Output Lines3
+
+Partition occupied by the memory1
+
+totalnumber18
+
+LENGTH  00C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 48
+
+CPU execution time(DEC): 28
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 1d
+
+JOBID 56
+
+ERROR OR WARNING: [E:133] **END FOR PROOGRAM MISSING 
+
+Input lines3
+
+Output Lines1
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  01E
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 57
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines6
+
+Partition occupied by the memory3
+
+totalnumber40
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 57
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines6
+
+Partition occupied by the memory3
+
+totalnumber40
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 58
+
+Input lines1
+
+Output Lines2
+
+Partition occupied by the memory1
+
+totalnumber29
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 151
+
+CPU execution time(DEC): 131
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 84
+
+JOBID 58
+
+Input lines1
+
+Output Lines2
+
+Partition occupied by the memory1
+
+totalnumber29
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 151
+
+CPU execution time(DEC): 131
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 84
+
+JOBID 59
+
+Input lines3
+
+Output Lines1
+
+Partition occupied by the memory1
+
+totalnumber31
+
+LENGTH  01B
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 149
+
+CPU execution time(DEC): 99
+
+I/O operation time(DEC): 50
+
+Time the job is leaving(HEX) : 64
+
+JOBID 59
+
+Input lines3
+
+Output Lines1
+
+Partition occupied by the memory1
+
+totalnumber31
+
+LENGTH  01B
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 149
+
+CPU execution time(DEC): 99
+
+I/O operation time(DEC): 50
+
+Time the job is leaving(HEX) : 64
+
+JOBID 60
+
+Input lines2
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber51
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 60
+
+Input lines2
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber51
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 62
+
+Time the job is leaving(HEX) : 20
+
+JOBID 62
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Inut lines4
+
+Output Lines2
+
+Partition occupied by the memory0
+
+totalnumber20
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 88
+
+CPU execution time(DEC): 123
+
+I/O operation time(DEC): 65
+
+Time the job is leaving(HEX) : 0
+
+JOBID 62
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Input lines0
+
+Output Lines2
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 63
+
+Time the job is leaving(HEX) : 20
+
+JOBID 63
+
+ERROR OR WARNING: 
+
+Inut lines4
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber20
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 88
+
+CPU execution time(DEC): 123
+
+I/O operation time(DEC): 65
+
+Time the job is leaving(HEX) : 0
+
+JOBID 63
+
+Input lines4
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber38
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 128
+
+CPU execution time(DEC): 108
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 6d
+
+JOBID 63
+
+Input lines4
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber38
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 128
+
+CPU execution time(DEC): 108
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 6d
+
+JOBID 64
+
+Time the job is leaving(HEX) : 20
+
+JOBID 64
+
+ERROR OR WARNING: 
+
+Inut lines4
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber20
+
+LENGTH  011
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 88
+
+CPU execution time(DEC): 123
+
+I/O operation time(DEC): 65
+
+Time the job is leaving(HEX) : 0
+
+JOBID 64
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines1
+
+Output LinesF
+
+Partition occupied by the memory3
+
+totalnumber33
+
+LENGTH  011
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 64
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines1
+
+Output LinesF
+
+Partition occupied by the memory3
+
+totalnumber33
+
+LENGTH  011
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 65
+
+Time the job is leaving(HEX) : 20
+
+JOBID 65
+
+ERROR OR WARNING: 
+
+Inut lines4
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber20
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 88
+
+CPU execution time(DEC): 123
+
+I/O operation time(DEC): 65
+
+Time the job is leaving(HEX) : 0
+
+JOBID 65
+
+Input lines2
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber37
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 207
+
+CPU execution time(DEC): 177
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : b2
+
+JOBID 65
+
+Input lines2
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber37
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 207
+
+CPU execution time(DEC): 177
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : b2
+
+JOBID 66
+
+Time the job is leaving(HEX) : 20
+
+JOBID 66
+
+ERROR OR WARNING: 
+
+Inut lines4
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber20
+
+LENGTH  037
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 88
+
+CPU execution time(DEC): 123
+
+I/O operation time(DEC): 65
+
+Time the job is leaving(HEX) : 0
+
+JOBID 67
+
+Time the job is leaving(HEX) : 20
+
+JOBID 67
+
+ERROR OR WARNING: 
+
+Inut lines4
+
+Output Lines2
+
+Partition occupied by the memory1
+
+totalnumber20
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 88
+
+CPU execution time(DEC): 123
+
+I/O operation time(DEC): 65
+
+Time the job is leaving(HEX) : 0
+
+JOBID 67
+
+Input lines2
+
+Output Lines2
+
+Partition occupied by the memory1
+
+totalnumber30
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 151
+
+CPU execution time(DEC): 131
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 84
+
+JOBID 67
+
+Input lines2
+
+Output Lines2
+
+Partition occupied by the memory1
+
+totalnumber30
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 151
+
+CPU execution time(DEC): 131
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 84
+
+JOBID 68
+
+Time the job is leaving(HEX) : 20
+
+JOBID 68
+
+ERROR OR WARNING: 
+
+Inut lines4
+
+Output Lines2
+
+Partition occupied by the memory1
+
+totalnumber20
+
+LENGTH  0A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 88
+
+CPU execution time(DEC): 123
+
+I/O operation time(DEC): 65
+
+Time the job is leaving(HEX) : 0
+
+JOBID 68
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines1
+
+Partition occupied by the memory1
+
+totalnumber13
+
+LENGTH  0A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 68
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines1
+
+Partition occupied by the memory1
+
+totalnumber13
+
+LENGTH  0A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 69
+
+Time the job is leaving(HEX) : 20
+
+JOBID 69
+
+ERROR OR WARNING: 
+
+Inut lines4
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber20
+
+LENGTH  30
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 88
+
+CPU execution time(DEC): 123
+
+I/O operation time(DEC): 65
+
+Time the job is leaving(HEX) : 0
+
+JOBID 69
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber51
+
+LENGTH  30
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 69
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber51
+
+LENGTH  30
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 70
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output LinesB
+
+Partition occupied by the memory3
+
+totalnumber45
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 70
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output LinesB
+
+Partition occupied by the memory3
+
+totalnumber45
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 71
+
+Input lines2
+
+Output Lines4
+
+Partition occupied by the memory3
+
+totalnumber53
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 71
+
+Input lines2
+
+Output Lines4
+
+Partition occupied by the memory3
+
+totalnumber53
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 72
+
+ERROR OR WARNING: [E:128]LOADER FORMAT MISSING
+
+Input lines1
+
+Output Lines2
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 73
+
+ERROR OR WARNING: [E:131] **DATA FOR PROOGRAM MISSING 
+
+Input lines1
+
+Output Lines2
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 74
+
+Input lines3
+
+Output Lines4
+
+Partition occupied by the memory3
+
+totalnumber34
+
+LENGTH  01B
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 137
+
+CPU execution time(DEC): 87
+
+I/O operation time(DEC): 50
+
+Time the job is leaving(HEX) : 58
+
+JOBID 74
+
+Input lines3
+
+Output Lines4
+
+Partition occupied by the memory3
+
+totalnumber34
+
+LENGTH  01B
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 137
+
+CPU execution time(DEC): 87
+
+I/O operation time(DEC): 50
+
+Time the job is leaving(HEX) : 58
+
+JOBID 75
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Input lines2
+
+Output Lines3
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  01B
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 76
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines1
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber47
+
+LENGTH  02C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 76
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines1
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber47
+
+LENGTH  02C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 77
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output LinesD
+
+Partition occupied by the memory3
+
+totalnumber47
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 77
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output LinesD
+
+Partition occupied by the memory3
+
+totalnumber47
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 78
+
+Input lines1
+
+Output Lines5
+
+Partition occupied by the memory1
+
+totalnumber32
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 151
+
+CPU execution time(DEC): 131
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 84
+
+JOBID 78
+
+Input lines1
+
+Output Lines5
+
+Partition occupied by the memory1
+
+totalnumber32
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 151
+
+CPU execution time(DEC): 131
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 84
+
+JOBID 79
+
+Input lines2
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber36
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 76
+
+CPU execution time(DEC): 56
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 39
+
+JOBID 79
+
+Input lines2
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber36
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 76
+
+CPU execution time(DEC): 56
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 39
+
+JOBID 80
+
+Input lines1
+
+Output Lines2
+
+Partition occupied by the memory1
+
+totalnumber26
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 147
+
+CPU execution time(DEC): 117
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 76
+
+JOBID 80
+
+Input lines1
+
+Output Lines2
+
+Partition occupied by the memory1
+
+totalnumber26
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 147
+
+CPU execution time(DEC): 117
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 76
+
+JOBID 81
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines1
+
+Output LinesE
+
+Partition occupied by the memory3
+
+totalnumber47
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 81
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines1
+
+Output LinesE
+
+Partition occupied by the memory3
+
+totalnumber47
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 82
+
+ERROR OR WARNING: [E:131] **DATA FOR PROOGRAM MISSING 
+
+Input lines4
+
+Output Lines2
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  025
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 83
+
+Input lines1
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber35
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 141
+
+CPU execution time(DEC): 121
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 7a
+
+JOBID 83
+
+Input lines1
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber35
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 141
+
+CPU execution time(DEC): 121
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 7a
+
+JOBID 84
+
+Input lines4
+
+Output Lines2
+
+Partition occupied by the memory1
+
+totalnumber29
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 155
+
+CPU execution time(DEC): 125
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 7e
+
+JOBID 84
+
+Input lines4
+
+Output Lines2
+
+Partition occupied by the memory1
+
+totalnumber29
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 155
+
+CPU execution time(DEC): 125
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 7e
+
+JOBID 85
+
+ERROR OR WARNING: [E:133] **END FOR PROOGRAM MISSING 
+
+Input lines2
+
+Output Lines2
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 86
+
+Input lines1
+
+Output Lines6
+
+Partition occupied by the memory1
+
+totalnumber30
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 171
+
+CPU execution time(DEC): 141
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 8e
+
+JOBID 86
+
+Input lines1
+
+Output Lines6
+
+Partition occupied by the memory1
+
+totalnumber30
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 171
+
+CPU execution time(DEC): 141
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 8e
+
+JOBID 87
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Input lines1
+
+Output LinesC
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 88
+
+Input lines3
+
+Output LinesA
+
+Partition occupied by the memory1
+
+totalnumber30
+
+LENGTH  011
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 275
+
+CPU execution time(DEC): 165
+
+I/O operation time(DEC): 110
+
+Time the job is leaving(HEX) : a6
+
+JOBID 88
+
+Input lines3
+
+Output LinesA
+
+Partition occupied by the memory1
+
+totalnumber30
+
+LENGTH  011
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 275
+
+CPU execution time(DEC): 165
+
+I/O operation time(DEC): 110
+
+Time the job is leaving(HEX) : a6
+
+JOBID 89
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Input lines3
+
+Output Lines4
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  null
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 90
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines4
+
+Output Lines5
+
+Partition occupied by the memory3
+
+totalnumber53
+
+LENGTH  02C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 90
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines4
+
+Output Lines5
+
+Partition occupied by the memory3
+
+totalnumber53
+
+LENGTH  02C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 91
+
+Input lines1
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber50
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 91
+
+Input lines1
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber50
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 92
+
+Input lines2
+
+Output Lines0
+
+Partition occupied by the memory1
+
+totalnumber14
+
+LENGTH  00C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 48
+
+CPU execution time(DEC): 28
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 1d
+
+JOBID 92
+
+Input lines2
+
+Output Lines0
+
+Partition occupied by the memory1
+
+totalnumber14
+
+LENGTH  00C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 48
+
+CPU execution time(DEC): 28
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 1d
+
+JOBID 93
+
+Input lines1
+
+Output Lines4
+
+Partition occupied by the memory3
+
+totalnumber35
+
+LENGTH  01E
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 100
+
+CPU execution time(DEC): 70
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 47
+
+JOBID 93
+
+Input lines1
+
+Output Lines4
+
+Partition occupied by the memory3
+
+totalnumber35
+
+LENGTH  01E
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 100
+
+CPU execution time(DEC): 70
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 47
+
+JOBID 94
+
+ERROR OR WARNING: [E:132] **JOB FOR PROOGRAM MISSING 
+
+Input linesnull
+
+Output Linesnull
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  null
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 95
+
+Input lines3
+
+Output Lines6
+
+Partition occupied by the memory3
+
+totalnumber40
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 145
+
+CPU execution time(DEC): 115
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 74
+
+JOBID 95
+
+Input lines3
+
+Output Lines6
+
+Partition occupied by the memory3
+
+totalnumber40
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 145
+
+CPU execution time(DEC): 115
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 74
+
+JOBID 96
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber50
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 96
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber50
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 97
+
+Input lines4
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber38
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 141
+
+CPU execution time(DEC): 121
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 7a
+
+JOBID 97
+
+Input lines4
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber38
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 141
+
+CPU execution time(DEC): 121
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 7a
+
+JOBID 98
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber50
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 98
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber50
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 99
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Input lines1
+
+Output LinesA
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  null
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 100
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines3
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber53
+
+LENGTH  30
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 100
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines3
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber53
+
+LENGTH  30
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 101
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines4
+
+Output Lines3
+
+Partition occupied by the memory1
+
+totalnumber17
+
+LENGTH  0A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 101
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines4
+
+Output Lines3
+
+Partition occupied by the memory1
+
+totalnumber17
+
+LENGTH  0A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 102
+
+Time the job is leaving(HEX) : 20
+
+JOBID 102
+
+ERROR OR WARNING: 
+
+Inut lines4
+
+Output Lines2
+
+Partition occupied by the memory6
+
+totalnumber20
+
+LENGTH  056
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 88
+
+CPU execution time(DEC): 123
+
+I/O operation time(DEC): 65
+
+Time the job is leaving(HEX) : 0
+
+JOBID 102
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines3
+
+Output Lines2
+
+Partition occupied by the memory6
+
+totalnumber91
+
+LENGTH  056
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 102
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines3
+
+Output Lines2
+
+Partition occupied by the memory6
+
+totalnumber91
+
+LENGTH  056
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+Current value of the clock(HEX) 1000 
+
+
+Mean User Job Run Time(HEX): 0.83653843 
+
+
+Mean User Job I/O Time(HEX): 0.45192307 
+
+
+Mean User Job Execution Time(HEX): 1.2884616
+
+
+Mean User Job in the SYSTEM(HEX): 38.46154 
+
+
+Total CPU idle Time(HEX): 1 
+
+
+Total Time lost due to Abnormally Terminated Jobs(HEX): 16
+
+
+Number of Jobs that Terminated normally(DEC): 88 
+
+
+Number of Jobs that Terminated abnormally(DEC): 0
+
+
+Total Time lost due to suspected Infinite Job(HEX) 15
+
+
+ID's of jobs considered Infinite(DEC): []
+
+
+mean internal fragmentation : 56.0
+
+
+ JOBID 7
+
+LENGTH  058
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Inut lines5
+
+Output Lines4
+
+LENGTH  058
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 8
+
+LENGTH  013
+
+ERROR OR WARNING: [E:131] **DATA FOR PROOGRAM MISSING 
+
+Inut lines3
+
+Output Lines1
+
+LENGTH  013
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 10
+
+LENGTH  null
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Inut lines3
+
+Output Lines1
+
+LENGTH  null
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 18
+
+LENGTH  01A
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Inut lines2
+
+Output Lines4
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 24
+
+LENGTH  020
+
+ERROR OR WARNING: [E:131] **DATA FOR PROOGRAM MISSING 
+
+Inut lines2
+
+Output LinesC
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 33
+
+LENGTH  020
+
+ERROR OR WARNING: [E:133] **END FOR PROOGRAM MISSING 
+
+Inut lines1
+
+Output LinesC
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 35
+
+LENGTH  037
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Inut lines4
+
+Output Lines2
+
+LENGTH  037
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 37
+
+LENGTH  01E
+
+ERROR OR WARNING: [E:131] **DATA FOR PROOGRAM MISSING 
+
+Inut lines4
+
+Output Lines1
+
+LENGTH  01E
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 46
+
+LENGTH  092
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Inut lines6
+
+Output Lines4
+
+LENGTH  092
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 47
+
+LENGTH  null
+
+ERROR OR WARNING: [E:132] **JOB FOR PROOGRAM MISSING 
+
+Inut linesnull
+
+Output Linesnull
+
+LENGTH  null
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 56
+
+LENGTH  01E
+
+ERROR OR WARNING: [E:133] **END FOR PROOGRAM MISSING 
+
+Inut lines3
+
+Output Lines1
+
+LENGTH  01E
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 62
+
+LENGTH  01A
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Inut lines0
+
+Output Lines2
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 72
+
+LENGTH  020
+
+ERROR OR WARNING: [E:128]LOADER FORMAT MISSING
+
+Inut lines1
+
+Output Lines2
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 73
+
+LENGTH  01F
+
+ERROR OR WARNING: [E:131] **DATA FOR PROOGRAM MISSING 
+
+Inut lines1
+
+Output Lines2
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 75
+
+LENGTH  01B
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Inut lines2
+
+Output Lines3
+
+LENGTH  01B
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 82
+
+LENGTH  025
+
+ERROR OR WARNING: [E:131] **DATA FOR PROOGRAM MISSING 
+
+Inut lines4
+
+Output Lines2
+
+LENGTH  025
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 85
+
+LENGTH  01A
+
+ERROR OR WARNING: [E:133] **END FOR PROOGRAM MISSING 
+
+Inut lines2
+
+Output Lines2
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 87
+
+LENGTH  020
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Inut lines1
+
+Output LinesC
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 89
+
+LENGTH  null
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Inut lines3
+
+Output Lines4
+
+LENGTH  null
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 94
+
+LENGTH  null
+
+ERROR OR WARNING: [E:132] **JOB FOR PROOGRAM MISSING 
+
+Inut linesnull
+
+Output Linesnull
+
+LENGTH  null
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+ JOBID 99
+
+LENGTH  null
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Inut lines1
+
+Output LinesA
+
+LENGTH  null
+
+Time the job entered(HEX) : 0
+
+CPU execution time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 2
+
+Input lines4
+
+Output Lines5
+
+Partition occupied by the memory1
+
+totalnumber32
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 187
+
+CPU execution time(DEC): 157
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 9e
+
+JOBID 2
+
+Input lines4
+
+Output Lines5
+
+Partition occupied by the memory1
+
+totalnumber32
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 187
+
+CPU execution time(DEC): 157
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 9e
+
+JOBID 3
+
+Input lines5
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber41
+
+LENGTH  023
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 109
+
+CPU execution time(DEC): 69
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 46
+
+JOBID 3
+
+Input lines5
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber41
+
+LENGTH  023
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 109
+
+CPU execution time(DEC): 69
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 46
+
+JOBID 4
+
+Input lines2
+
+Output Lines3
+
+Partition occupied by the memory1
+
+totalnumber17
+
+LENGTH  00C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 48
+
+CPU execution time(DEC): 28
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 1d
+
+JOBID 4
+
+Input lines2
+
+Output Lines3
+
+Partition occupied by the memory1
+
+totalnumber17
+
+LENGTH  00C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 48
+
+CPU execution time(DEC): 28
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 1d
+
+JOBID 5
+
+Input lines2
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber51
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 5
+
+Input lines2
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber51
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 6
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines1
+
+Output LinesE
+
+Partition occupied by the memory3
+
+totalnumber47
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 6
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines1
+
+Output LinesE
+
+Partition occupied by the memory3
+
+totalnumber47
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 7
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Input lines5
+
+Output Lines4
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  058
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 8
+
+ERROR OR WARNING: [E:131] **DATA FOR PROOGRAM MISSING 
+
+Input lines3
+
+Output Lines1
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  013
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 9
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines1
+
+Output LinesC
+
+Partition occupied by the memory3
+
+totalnumber45
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 9
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines1
+
+Output LinesC
+
+Partition occupied by the memory3
+
+totalnumber45
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 10
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Input lines3
+
+Output Lines1
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  null
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 11
+
+ERROR OR WARNING: [E:141]: INSUFFICIENT OUTPUT SPACE
+
+Input lines3
+
+Output Lines3
+
+Partition occupied by the memory0
+
+totalnumber37
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 12
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines3
+
+Output Lines6
+
+Partition occupied by the memory3
+
+totalnumber56
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 12
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines3
+
+Output Lines6
+
+Partition occupied by the memory3
+
+totalnumber56
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 13
+
+Time the job is leaving(HEX) : 20
+
+JOBID 13
+
+ERROR OR WARNING: 
+
+Inut lines4
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber20
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 88
+
+CPU execution time(DEC): 123
+
+I/O operation time(DEC): 65
+
+Time the job is leaving(HEX) : 0
+
+JOBID 13
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output LinesF
+
+Partition occupied by the memory3
+
+totalnumber49
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 13
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output LinesF
+
+Partition occupied by the memory3
+
+totalnumber49
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 14
+
+Input lines1
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber51
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 14
+
+Input lines1
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber51
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 15
+
+Input lines4
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber36
+
+LENGTH  01E
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 135
+
+CPU execution time(DEC): 95
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 60
+
+JOBID 15
+
+Input lines4
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber36
+
+LENGTH  01E
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 135
+
+CPU execution time(DEC): 95
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 60
+
+JOBID 16
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines7
+
+Partition occupied by the memory3
+
+totalnumber41
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 16
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines7
+
+Partition occupied by the memory3
+
+totalnumber41
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 17
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines1
+
+Output LinesC
+
+Partition occupied by the memory3
+
+totalnumber45
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 17
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines1
+
+Output LinesC
+
+Partition occupied by the memory3
+
+totalnumber45
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 18
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Input lines2
+
+Output Lines4
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 19
+
+Input lines3
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber46
+
+LENGTH  028
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 164
+
+CPU execution time(DEC): 114
+
+I/O operation time(DEC): 50
+
+Time the job is leaving(HEX) : 73
+
+JOBID 19
+
+Input lines3
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber46
+
+LENGTH  028
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 164
+
+CPU execution time(DEC): 114
+
+I/O operation time(DEC): 50
+
+Time the job is leaving(HEX) : 73
+
+JOBID 21
+
+Input lines4
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber40
+
+LENGTH  023
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 109
+
+CPU execution time(DEC): 69
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 46
+
+JOBID 21
+
+Input lines4
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber40
+
+LENGTH  023
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 109
+
+CPU execution time(DEC): 69
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 46
+
+JOBID 22
+
+Input lines2
+
+Output Lines1
+
+Partition occupied by the memory1
+
+totalnumber15
+
+LENGTH  00C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 48
+
+CPU execution time(DEC): 28
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 1d
+
+JOBID 22
+
+Input lines2
+
+Output Lines1
+
+Partition occupied by the memory1
+
+totalnumber15
+
+LENGTH  00C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 48
+
+CPU execution time(DEC): 28
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 1d
+
+JOBID 23
+
+Input lines3
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber41
+
+LENGTH  025
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 121
+
+CPU execution time(DEC): 81
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 52
+
+JOBID 23
+
+Input lines3
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber41
+
+LENGTH  025
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 121
+
+CPU execution time(DEC): 81
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 52
+
+JOBID 24
+
+ERROR OR WARNING: [E:131] **DATA FOR PROOGRAM MISSING 
+
+Input lines2
+
+Output LinesC
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 25
+
+Input lines2
+
+Output Lines4
+
+Partition occupied by the memory1
+
+totalnumber29
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 155
+
+CPU execution time(DEC): 125
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 7e
+
+JOBID 25
+
+Input lines2
+
+Output Lines4
+
+Partition occupied by the memory1
+
+totalnumber29
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 155
+
+CPU execution time(DEC): 125
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 7e
+
+JOBID 26
+
+Input lines3
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber46
+
+LENGTH  028
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 108
+
+CPU execution time(DEC): 58
+
+I/O operation time(DEC): 50
+
+Time the job is leaving(HEX) : 3b
+
+JOBID 26
+
+Input lines3
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber46
+
+LENGTH  028
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 108
+
+CPU execution time(DEC): 58
+
+I/O operation time(DEC): 50
+
+Time the job is leaving(HEX) : 3b
+
+JOBID 27
+
+Input lines3
+
+Output Lines4
+
+Partition occupied by the memory3
+
+totalnumber44
+
+LENGTH  025
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 153
+
+CPU execution time(DEC): 113
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 72
+
+JOBID 27
+
+Input lines3
+
+Output Lines4
+
+Partition occupied by the memory3
+
+totalnumber44
+
+LENGTH  025
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 153
+
+CPU execution time(DEC): 113
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 72
+
+JOBID 28
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output LinesB
+
+Partition occupied by the memory3
+
+totalnumber45
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 28
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output LinesB
+
+Partition occupied by the memory3
+
+totalnumber45
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 29
+
+Input lines4
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber40
+
+LENGTH  023
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 109
+
+CPU execution time(DEC): 69
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 46
+
+JOBID 29
+
+Input lines4
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber40
+
+LENGTH  023
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 109
+
+CPU execution time(DEC): 69
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 46
+
+JOBID 30
+
+Input lines1
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber33
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 89
+
+CPU execution time(DEC): 69
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 46
+
+JOBID 30
+
+Input lines1
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber33
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 89
+
+CPU execution time(DEC): 69
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 46
+
+JOBID 31
+
+Input lines3
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber36
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 145
+
+CPU execution time(DEC): 115
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 74
+
+JOBID 31
+
+Input lines3
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber36
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 145
+
+CPU execution time(DEC): 115
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 74
+
+JOBID 32
+
+Input lines3
+
+Output Lines3
+
+Partition occupied by the memory1
+
+totalnumber18
+
+LENGTH  00C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 48
+
+CPU execution time(DEC): 28
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 1d
+
+JOBID 32
+
+Input lines3
+
+Output Lines3
+
+Partition occupied by the memory1
+
+totalnumber18
+
+LENGTH  00C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 48
+
+CPU execution time(DEC): 28
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 1d
+
+JOBID 33
+
+ERROR OR WARNING: [E:133] **END FOR PROOGRAM MISSING 
+
+Input lines1
+
+Output LinesC
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 34
+
+Input lines4
+
+Output Lines5
+
+Partition occupied by the memory3
+
+totalnumber49
+
+LENGTH  028
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 152
+
+CPU execution time(DEC): 102
+
+I/O operation time(DEC): 50
+
+Time the job is leaving(HEX) : 67
+
+JOBID 34
+
+Input lines4
+
+Output Lines5
+
+Partition occupied by the memory3
+
+totalnumber49
+
+LENGTH  028
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 152
+
+CPU execution time(DEC): 102
+
+I/O operation time(DEC): 50
+
+Time the job is leaving(HEX) : 67
+
+JOBID 35
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Input lines4
+
+Output Lines2
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  037
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 36
+
+Input lines6
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber46
+
+LENGTH  025
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 145
+
+CPU execution time(DEC): 105
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 6a
+
+JOBID 36
+
+Input lines6
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber46
+
+LENGTH  025
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 145
+
+CPU execution time(DEC): 105
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 6a
+
+JOBID 37
+
+ERROR OR WARNING: [E:131] **DATA FOR PROOGRAM MISSING 
+
+Input lines4
+
+Output Lines1
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  01E
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 38
+
+Input lines3
+
+Output Lines4
+
+Partition occupied by the memory3
+
+totalnumber38
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 76
+
+CPU execution time(DEC): 56
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 39
+
+JOBID 38
+
+Input lines3
+
+Output Lines4
+
+Partition occupied by the memory3
+
+totalnumber38
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 76
+
+CPU execution time(DEC): 56
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 39
+
+JOBID 39
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber52
+
+LENGTH  30
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 39
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber52
+
+LENGTH  30
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 40
+
+Input lines7
+
+Output Lines2
+
+Partition occupied by the memory1
+
+totalnumber32
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 115
+
+CPU execution time(DEC): 85
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 56
+
+JOBID 40
+
+Input lines7
+
+Output Lines2
+
+Partition occupied by the memory1
+
+totalnumber32
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 115
+
+CPU execution time(DEC): 85
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 56
+
+JOBID 41
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output LinesC
+
+Partition occupied by the memory3
+
+totalnumber46
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 41
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output LinesC
+
+Partition occupied by the memory3
+
+totalnumber46
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 42
+
+Input lines4
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber53
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 42
+
+Input lines4
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber53
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 43
+
+Input lines3
+
+Output Lines5
+
+Partition occupied by the memory3
+
+totalnumber55
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 43
+
+Input lines3
+
+Output Lines5
+
+Partition occupied by the memory3
+
+totalnumber55
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 44
+
+Input lines1
+
+Output Lines3
+
+Partition occupied by the memory1
+
+totalnumber27
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 81
+
+CPU execution time(DEC): 51
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 34
+
+JOBID 44
+
+Input lines1
+
+Output Lines3
+
+Partition occupied by the memory1
+
+totalnumber27
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 81
+
+CPU execution time(DEC): 51
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 34
+
+JOBID 45
+
+Input lines4
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber40
+
+LENGTH  023
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 109
+
+CPU execution time(DEC): 69
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 46
+
+JOBID 45
+
+Input lines4
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber40
+
+LENGTH  023
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 109
+
+CPU execution time(DEC): 69
+
+I/O operation time(DEC): 40
+
+Time the job is leaving(HEX) : 46
+
+JOBID 46
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Input lines6
+
+Output Lines4
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  092
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 47
+
+ERROR OR WARNING: [E:132] **JOB FOR PROOGRAM MISSING 
+
+Input linesnull
+
+Output Linesnull
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  null
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 48
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines3
+
+Output Lines4
+
+Partition occupied by the memory3
+
+totalnumber54
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 48
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines3
+
+Output Lines4
+
+Partition occupied by the memory3
+
+totalnumber54
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 49
+
+Input lines1
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber36
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 207
+
+CPU execution time(DEC): 177
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : b2
+
+JOBID 49
+
+Input lines1
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber36
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 207
+
+CPU execution time(DEC): 177
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : b2
+
+JOBID 52
+
+Input lines2
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber37
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 175
+
+CPU execution time(DEC): 145
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 92
+
+JOBID 52
+
+Input lines2
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber37
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 175
+
+CPU execution time(DEC): 145
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 92
+
+JOBID 53
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber39
+
+LENGTH  022
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 53
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber39
+
+LENGTH  022
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 54
+
+Input lines3
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber46
+
+LENGTH  028
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 129
+
+CPU execution time(DEC): 79
+
+I/O operation time(DEC): 50
+
+Time the job is leaving(HEX) : 50
+
+JOBID 54
+
+Input lines3
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber46
+
+LENGTH  028
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 129
+
+CPU execution time(DEC): 79
+
+I/O operation time(DEC): 50
+
+Time the job is leaving(HEX) : 50
+
+JOBID 55
+
+Input lines3
+
+Output Lines3
+
+Partition occupied by the memory1
+
+totalnumber18
+
+LENGTH  00C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 48
+
+CPU execution time(DEC): 28
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 1d
+
+JOBID 55
+
+Input lines3
+
+Output Lines3
+
+Partition occupied by the memory1
+
+totalnumber18
+
+LENGTH  00C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 48
+
+CPU execution time(DEC): 28
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 1d
+
+JOBID 56
+
+ERROR OR WARNING: [E:133] **END FOR PROOGRAM MISSING 
+
+Input lines3
+
+Output Lines1
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  01E
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 57
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines6
+
+Partition occupied by the memory3
+
+totalnumber40
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 57
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines6
+
+Partition occupied by the memory3
+
+totalnumber40
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 58
+
+Input lines1
+
+Output Lines2
+
+Partition occupied by the memory1
+
+totalnumber29
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 151
+
+CPU execution time(DEC): 131
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 84
+
+JOBID 58
+
+Input lines1
+
+Output Lines2
+
+Partition occupied by the memory1
+
+totalnumber29
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 151
+
+CPU execution time(DEC): 131
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 84
+
+JOBID 59
+
+Input lines3
+
+Output Lines1
+
+Partition occupied by the memory1
+
+totalnumber31
+
+LENGTH  01B
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 149
+
+CPU execution time(DEC): 99
+
+I/O operation time(DEC): 50
+
+Time the job is leaving(HEX) : 64
+
+JOBID 59
+
+Input lines3
+
+Output Lines1
+
+Partition occupied by the memory1
+
+totalnumber31
+
+LENGTH  01B
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 149
+
+CPU execution time(DEC): 99
+
+I/O operation time(DEC): 50
+
+Time the job is leaving(HEX) : 64
+
+JOBID 60
+
+Input lines2
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber51
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 60
+
+Input lines2
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber51
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 62
+
+Time the job is leaving(HEX) : 20
+
+JOBID 62
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Inut lines4
+
+Output Lines2
+
+Partition occupied by the memory0
+
+totalnumber20
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 88
+
+CPU execution time(DEC): 123
+
+I/O operation time(DEC): 65
+
+Time the job is leaving(HEX) : 0
+
+JOBID 62
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Input lines0
+
+Output Lines2
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 63
+
+Time the job is leaving(HEX) : 20
+
+JOBID 63
+
+ERROR OR WARNING: 
+
+Inut lines4
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber20
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 88
+
+CPU execution time(DEC): 123
+
+I/O operation time(DEC): 65
+
+Time the job is leaving(HEX) : 0
+
+JOBID 63
+
+Input lines4
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber38
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 128
+
+CPU execution time(DEC): 108
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 6d
+
+JOBID 63
+
+Input lines4
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber38
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 128
+
+CPU execution time(DEC): 108
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 6d
+
+JOBID 64
+
+Time the job is leaving(HEX) : 20
+
+JOBID 64
+
+ERROR OR WARNING: 
+
+Inut lines4
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber20
+
+LENGTH  011
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 88
+
+CPU execution time(DEC): 123
+
+I/O operation time(DEC): 65
+
+Time the job is leaving(HEX) : 0
+
+JOBID 64
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines1
+
+Output LinesF
+
+Partition occupied by the memory3
+
+totalnumber33
+
+LENGTH  011
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 64
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines1
+
+Output LinesF
+
+Partition occupied by the memory3
+
+totalnumber33
+
+LENGTH  011
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 65
+
+Time the job is leaving(HEX) : 20
+
+JOBID 65
+
+ERROR OR WARNING: 
+
+Inut lines4
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber20
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 88
+
+CPU execution time(DEC): 123
+
+I/O operation time(DEC): 65
+
+Time the job is leaving(HEX) : 0
+
+JOBID 65
+
+Input lines2
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber37
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 207
+
+CPU execution time(DEC): 177
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : b2
+
+JOBID 65
+
+Input lines2
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber37
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 207
+
+CPU execution time(DEC): 177
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : b2
+
+JOBID 66
+
+Time the job is leaving(HEX) : 20
+
+JOBID 66
+
+ERROR OR WARNING: 
+
+Inut lines4
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber20
+
+LENGTH  037
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 88
+
+CPU execution time(DEC): 123
+
+I/O operation time(DEC): 65
+
+Time the job is leaving(HEX) : 0
+
+JOBID 67
+
+Time the job is leaving(HEX) : 20
+
+JOBID 67
+
+ERROR OR WARNING: 
+
+Inut lines4
+
+Output Lines2
+
+Partition occupied by the memory1
+
+totalnumber20
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 88
+
+CPU execution time(DEC): 123
+
+I/O operation time(DEC): 65
+
+Time the job is leaving(HEX) : 0
+
+JOBID 67
+
+Input lines2
+
+Output Lines2
+
+Partition occupied by the memory1
+
+totalnumber30
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 151
+
+CPU execution time(DEC): 131
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 84
+
+JOBID 67
+
+Input lines2
+
+Output Lines2
+
+Partition occupied by the memory1
+
+totalnumber30
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 151
+
+CPU execution time(DEC): 131
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 84
+
+JOBID 68
+
+Time the job is leaving(HEX) : 20
+
+JOBID 68
+
+ERROR OR WARNING: 
+
+Inut lines4
+
+Output Lines2
+
+Partition occupied by the memory1
+
+totalnumber20
+
+LENGTH  0A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 88
+
+CPU execution time(DEC): 123
+
+I/O operation time(DEC): 65
+
+Time the job is leaving(HEX) : 0
+
+JOBID 68
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines1
+
+Partition occupied by the memory1
+
+totalnumber13
+
+LENGTH  0A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 68
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines1
+
+Partition occupied by the memory1
+
+totalnumber13
+
+LENGTH  0A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 69
+
+Time the job is leaving(HEX) : 20
+
+JOBID 69
+
+ERROR OR WARNING: 
+
+Inut lines4
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber20
+
+LENGTH  30
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 88
+
+CPU execution time(DEC): 123
+
+I/O operation time(DEC): 65
+
+Time the job is leaving(HEX) : 0
+
+JOBID 69
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber51
+
+LENGTH  30
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 69
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber51
+
+LENGTH  30
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 70
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output LinesB
+
+Partition occupied by the memory3
+
+totalnumber45
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 70
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output LinesB
+
+Partition occupied by the memory3
+
+totalnumber45
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 71
+
+Input lines2
+
+Output Lines4
+
+Partition occupied by the memory3
+
+totalnumber53
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 71
+
+Input lines2
+
+Output Lines4
+
+Partition occupied by the memory3
+
+totalnumber53
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 72
+
+ERROR OR WARNING: [E:128]LOADER FORMAT MISSING
+
+Input lines1
+
+Output Lines2
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 73
+
+ERROR OR WARNING: [E:131] **DATA FOR PROOGRAM MISSING 
+
+Input lines1
+
+Output Lines2
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 74
+
+Input lines3
+
+Output Lines4
+
+Partition occupied by the memory3
+
+totalnumber34
+
+LENGTH  01B
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 137
+
+CPU execution time(DEC): 87
+
+I/O operation time(DEC): 50
+
+Time the job is leaving(HEX) : 58
+
+JOBID 74
+
+Input lines3
+
+Output Lines4
+
+Partition occupied by the memory3
+
+totalnumber34
+
+LENGTH  01B
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 137
+
+CPU execution time(DEC): 87
+
+I/O operation time(DEC): 50
+
+Time the job is leaving(HEX) : 58
+
+JOBID 75
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Input lines2
+
+Output Lines3
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  01B
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 76
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines1
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber47
+
+LENGTH  02C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 76
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines1
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber47
+
+LENGTH  02C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 77
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output LinesD
+
+Partition occupied by the memory3
+
+totalnumber47
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 77
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output LinesD
+
+Partition occupied by the memory3
+
+totalnumber47
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 78
+
+Input lines1
+
+Output Lines5
+
+Partition occupied by the memory1
+
+totalnumber32
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 151
+
+CPU execution time(DEC): 131
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 84
+
+JOBID 78
+
+Input lines1
+
+Output Lines5
+
+Partition occupied by the memory1
+
+totalnumber32
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 151
+
+CPU execution time(DEC): 131
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 84
+
+JOBID 79
+
+Input lines2
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber36
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 76
+
+CPU execution time(DEC): 56
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 39
+
+JOBID 79
+
+Input lines2
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber36
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 76
+
+CPU execution time(DEC): 56
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 39
+
+JOBID 80
+
+Input lines1
+
+Output Lines2
+
+Partition occupied by the memory1
+
+totalnumber26
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 147
+
+CPU execution time(DEC): 117
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 76
+
+JOBID 80
+
+Input lines1
+
+Output Lines2
+
+Partition occupied by the memory1
+
+totalnumber26
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 147
+
+CPU execution time(DEC): 117
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 76
+
+JOBID 81
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines1
+
+Output LinesE
+
+Partition occupied by the memory3
+
+totalnumber47
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 81
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines1
+
+Output LinesE
+
+Partition occupied by the memory3
+
+totalnumber47
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 82
+
+ERROR OR WARNING: [E:131] **DATA FOR PROOGRAM MISSING 
+
+Input lines4
+
+Output Lines2
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  025
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 83
+
+Input lines1
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber35
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 141
+
+CPU execution time(DEC): 121
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 7a
+
+JOBID 83
+
+Input lines1
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber35
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 141
+
+CPU execution time(DEC): 121
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 7a
+
+JOBID 84
+
+Input lines4
+
+Output Lines2
+
+Partition occupied by the memory1
+
+totalnumber29
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 155
+
+CPU execution time(DEC): 125
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 7e
+
+JOBID 84
+
+Input lines4
+
+Output Lines2
+
+Partition occupied by the memory1
+
+totalnumber29
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 155
+
+CPU execution time(DEC): 125
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 7e
+
+JOBID 85
+
+ERROR OR WARNING: [E:133] **END FOR PROOGRAM MISSING 
+
+Input lines2
+
+Output Lines2
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  01A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 86
+
+Input lines1
+
+Output Lines6
+
+Partition occupied by the memory1
+
+totalnumber30
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 171
+
+CPU execution time(DEC): 141
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 8e
+
+JOBID 86
+
+Input lines1
+
+Output Lines6
+
+Partition occupied by the memory1
+
+totalnumber30
+
+LENGTH  017
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 171
+
+CPU execution time(DEC): 141
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 8e
+
+JOBID 87
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Input lines1
+
+Output LinesC
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  020
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 88
+
+Input lines3
+
+Output LinesA
+
+Partition occupied by the memory1
+
+totalnumber30
+
+LENGTH  011
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 275
+
+CPU execution time(DEC): 165
+
+I/O operation time(DEC): 110
+
+Time the job is leaving(HEX) : a6
+
+JOBID 88
+
+Input lines3
+
+Output LinesA
+
+Partition occupied by the memory1
+
+totalnumber30
+
+LENGTH  011
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 275
+
+CPU execution time(DEC): 165
+
+I/O operation time(DEC): 110
+
+Time the job is leaving(HEX) : a6
+
+JOBID 89
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Input lines3
+
+Output Lines4
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  null
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 90
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines4
+
+Output Lines5
+
+Partition occupied by the memory3
+
+totalnumber53
+
+LENGTH  02C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 90
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines4
+
+Output Lines5
+
+Partition occupied by the memory3
+
+totalnumber53
+
+LENGTH  02C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 91
+
+Input lines1
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber50
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 91
+
+Input lines1
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber50
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 97
+
+CPU execution time(DEC): 67
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 44
+
+JOBID 92
+
+Input lines2
+
+Output Lines0
+
+Partition occupied by the memory1
+
+totalnumber14
+
+LENGTH  00C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 48
+
+CPU execution time(DEC): 28
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 1d
+
+JOBID 92
+
+Input lines2
+
+Output Lines0
+
+Partition occupied by the memory1
+
+totalnumber14
+
+LENGTH  00C
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 48
+
+CPU execution time(DEC): 28
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 1d
+
+JOBID 93
+
+Input lines1
+
+Output Lines4
+
+Partition occupied by the memory3
+
+totalnumber35
+
+LENGTH  01E
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 100
+
+CPU execution time(DEC): 70
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 47
+
+JOBID 93
+
+Input lines1
+
+Output Lines4
+
+Partition occupied by the memory3
+
+totalnumber35
+
+LENGTH  01E
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 100
+
+CPU execution time(DEC): 70
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 47
+
+JOBID 94
+
+ERROR OR WARNING: [E:132] **JOB FOR PROOGRAM MISSING 
+
+Input linesnull
+
+Output Linesnull
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  null
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 95
+
+Input lines3
+
+Output Lines6
+
+Partition occupied by the memory3
+
+totalnumber40
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 145
+
+CPU execution time(DEC): 115
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 74
+
+JOBID 95
+
+Input lines3
+
+Output Lines6
+
+Partition occupied by the memory3
+
+totalnumber40
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 145
+
+CPU execution time(DEC): 115
+
+I/O operation time(DEC): 30
+
+Time the job is leaving(HEX) : 74
+
+JOBID 96
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber50
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 96
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber50
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 97
+
+Input lines4
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber38
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 141
+
+CPU execution time(DEC): 121
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 7a
+
+JOBID 97
+
+Input lines4
+
+Output Lines3
+
+Partition occupied by the memory3
+
+totalnumber38
+
+LENGTH  01F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 141
+
+CPU execution time(DEC): 121
+
+I/O operation time(DEC): 20
+
+Time the job is leaving(HEX) : 7a
+
+JOBID 98
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber50
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 98
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines2
+
+Output Lines1
+
+Partition occupied by the memory3
+
+totalnumber50
+
+LENGTH  02F
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 99
+
+ERROR OR WARNING: [E:130] NULL JOB
+
+Input lines1
+
+Output LinesA
+
+Partition occupied by the memory0
+
+totalnumbernull
+
+LENGTH  null
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 100
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines3
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber53
+
+LENGTH  30
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 100
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines3
+
+Output Lines2
+
+Partition occupied by the memory3
+
+totalnumber53
+
+LENGTH  30
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 101
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines4
+
+Output Lines3
+
+Partition occupied by the memory1
+
+totalnumber17
+
+LENGTH  0A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 101
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines4
+
+Output Lines3
+
+Partition occupied by the memory1
+
+totalnumber17
+
+LENGTH  0A
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 102
+
+Time the job is leaving(HEX) : 20
+
+JOBID 102
+
+ERROR OR WARNING: 
+
+Inut lines4
+
+Output Lines2
+
+Partition occupied by the memory6
+
+totalnumber20
+
+LENGTH  056
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 88
+
+CPU execution time(DEC): 123
+
+I/O operation time(DEC): 65
+
+Time the job is leaving(HEX) : 0
+
+JOBID 102
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines3
+
+Output Lines2
+
+Partition occupied by the memory6
+
+totalnumber91
+
+LENGTH  056
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+JOBID 102
+
+ERROR OR WARNING: [Warning : 110] PROGRAM TAKES TO LONG
+
+Input lines3
+
+Output Lines2
+
+Partition occupied by the memory6
+
+totalnumber91
+
+LENGTH  056
+
+Time the job entered(HEX) : 0
+
+Runtime(DEC): 0
+
+CPU execution time(DEC): 0
+
+I/O operation time(DEC): 0
+
+Time the job is leaving(HEX) : 0
+
+Current value of the clock(HEX) 1000 
+
+
+Mean User Job Run Time(HEX): 0.83653843 
+
+
+Mean User Job I/O Time(HEX): 0.45192307 
+
+
+Mean User Job Execution Time(HEX): 1.2884616
+
+
+Mean User Job in the SYSTEM(HEX): 38.46154 
+
+
+Total CPU idle Time(HEX): 1 
+
+
+Total Time lost due to Abnormally Terminated Jobs(HEX): 16
+
+
+Number of Jobs that Terminated normally(DEC): 88 
+
+
+Number of Jobs that Terminated abnormally(DEC): 0
+
+
+Total Time lost due to suspected Infinite Job(HEX) 15
+
+
+ID's of jobs considered Infinite(DEC): []
+
+
+mean internal fragmentation : 56.0
+
+
